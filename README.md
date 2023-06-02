@@ -1,10 +1,10 @@
 ![BRB 1](https://user-images.githubusercontent.com/93581220/210155925-9b7850d4-8053-409d-b2f3-5663deb1f7d1.png)
 
-# Blank Road Builder
+# Road Builder
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-Blank Road Builder is a Cities: Skylines mod that allows you to create roads without dealing with the tedious asset editor!
+Road Builder is a Cities: Skylines mod that allows you to create roads without dealing with the tedious asset editor!
 
 This mod automatically generates the properties, lanes, props & models of the road based on a configuration created in Thumbnail Maker.
 
